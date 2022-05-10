@@ -84,7 +84,7 @@ The process above will generate a thresholded block, which is smaller than the R
 
 8. To keep the map size same as it was before CFAR, equate all the non-thresholded cells to 0.
 
-![2D CFAR output](./images/2D%20FFT%20output%20-%20Range%20Doppler%20map.png "output of the 2D CFAR process")
+![2D CFAR output](./images/2D%20CFAR%20output.png "output of the 2D CFAR process")
 
 
 ### Selection of Training, Guard cells and offset
