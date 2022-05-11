@@ -1,17 +1,3 @@
----
-title : "SFND-project-04-radar_target_generation_and_detection"
-category :
-    - SFND
-tag : 
-    - matlab
-    - https://www.udacity.com/course/sensor-fusion-engineer-nanodegree--nd313
-toc: true  
-toc_sticky: true 
-use_math : true
----
-
-
-
 # Radar Target Generation and Detection (Udacity - Sensor Fusion Nanodegree Program - project - 04)
 
 
