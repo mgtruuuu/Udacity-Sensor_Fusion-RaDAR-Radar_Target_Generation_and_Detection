@@ -1,4 +1,4 @@
-# Radar Target Generation and Detection (Udacity - Sensor Fusion Nanodegree Program - project - 04)
+# Radar Target Generation and Detection
 
 
 
