@@ -53,6 +53,10 @@ You will provide the initial range and velocity of the target. Range cannot exce
 
 ## 3. FFT Operation
 
+![FFT_introduction](./images/FFT_introduction.png)
+
+![2D FFT_introduction](./images/2DFFT_introduction.png)
+
 ![1D FFT output](./images/1D%20FFT%20output%20for%20the%20target%20located%20at%20110%20meters.png "1D FFT output for the target located at 110 meters")
 
 ![2D FFT output](./images/2D%20FFT%20output%20-%20Range%20Doppler%20map.png "2D FFT output - Range Doppler map")
@@ -72,6 +76,10 @@ You will provide the initial range and velocity of the target. Range cannot exce
 
 
 ## 4. 2D CFAR
+
+![CFAR_introduction](/images/CA-CFAR_introduction.png)
+
+![2DCFAR_introduction](/images/2DCFAR_introduction.png)
 
 ![2D CFAR output](./images/2D%20CFAR%20output.png "output of the 2D CFAR process")
 
@@ -153,4 +161,7 @@ end
 ```
 
 
-## 
+----
+Image source : Udacity
+
+----
